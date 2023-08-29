@@ -136,7 +136,7 @@ void excluirElemento()
 		}
 		nElementos = nElementos - 1;
 
-		cout << "O elemento foi excluido" << pos << endl; 
+		cout << "O elemento foi excluido " << pos << endl; 
 
 	}
 	else
